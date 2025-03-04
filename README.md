@@ -48,4 +48,6 @@ This project strengthened my understanding of API integration, financial data an
 
 
 *Output*
-https://github.com/user-attachments/assets/13cb90df-2966-46eb-bcbb-2ed6fb03536e
+
+![Image](https://github.com/user-attachments/assets/13cb90df-2966-46eb-bcbb-2ed6fb03536e)
+
